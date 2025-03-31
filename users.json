@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 357,
+    "Username": "ahilmi",
+    "Role": "user",
+    "Password": "ahmet1#"
+  },
+  {
+    "Id": 254,
+    "Username": "ahmet",
+    "Role": "admin",
+    "Password": "ahmet13*"
+  },
+  {
+    "Id": 3,
+    "Username": "zehrabetul",
+    "Role": "user",
+    "Password": "zbg201542?"
+  }
+]

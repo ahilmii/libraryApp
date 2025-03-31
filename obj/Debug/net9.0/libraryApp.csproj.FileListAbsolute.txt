@@ -1,0 +1,15 @@
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\bin\Debug\net9.0\libraryApp.exe
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\bin\Debug\net9.0\libraryApp.deps.json
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\bin\Debug\net9.0\libraryApp.runtimeconfig.json
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\bin\Debug\net9.0\libraryApp.dll
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\bin\Debug\net9.0\libraryApp.pdb
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.AssemblyInfoInputs.cache
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.AssemblyInfo.cs
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.sourcelink.json
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.dll
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\refint\libraryApp.dll
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.pdb
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\libraryApp.genruntimeconfig.cache
+C:\Users\Ahmet Hilmi\Masaüstü\c#\libraryApp\obj\Debug\net9.0\ref\libraryApp.dll
